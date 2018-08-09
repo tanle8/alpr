@@ -1,6 +1,6 @@
 # Algorithms
 
-a Coursera Princeton University course
+a Coursera - Princeton University course
 
 ## Syllabus
 
